@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\a4aae4b2e89c4ca964afc589026300d68a90c7ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_6dec14906bbd1b6f90636c3f50d43df4379d94ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\292c32e8944464d003d10a88b20b1a117a7c26b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_d9d32fa8d9f744df8c0029cf3d4383e73c2696c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\65dec286bfacf9529e91262b3a7ee8916bddc5ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_bf68c7fc785988589d36c30d3e8f4698c1125224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\b594e35db228bc8c581d413b9b0396e4785d7dbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_f7320bead83d509785d43bc09d350a1fd01e9586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_SDK\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_921df45bfcc0bc1bf5c7e4721697f399cc7e7e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\fe6d3fcecc30b90b15b2a19224797ea2eb861d10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_ef47c23a3e05a93b6eebbb0eb5b85ab945f27a6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\15b7ce94a7ffdfe3ae4703b98af6558dfa6384c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_ca300ade8a1041b41f67ebbde839ee9a51ba751d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\e38678adf9d8d3a0a2fc0055873a3af68ef847fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_5bf84868e31d226d5486c5e7b0a9a1f74b3399aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_3e84150a181577ba09b7cb06b429243faf672f70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\932540b68c7e7660b1e4be1a5aaec9098f78c948\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_6b6e0ccc6c059484a26ff127a43821b83fb2aced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\fc0f155a36215af1102b4c2b3fe214d18c10f7b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_34895a127a21ccc9840409c09dfbd2d587f855e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\a516a2aa91367a8305c4a75de86e8fe27d5af8a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_7763dc3746a416ca260cac694f78a58a608eeaf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\acd38d1f49f68042acde5d4c279e49caa2addc46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_acf0f807fb373ad76e8a0a307df51ade11b36bf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\e32b7f31a97b6a7489e9d10fbd52dbf0056e7ec4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_914302be2990e97b4dca1c49bed48eb37ca5f2ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\opensource\Android_AVD\.android\build-cache\027db93892bfd5351816e52ba4e2631a66ef80b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\SCJ28\TrabalhoAndroid\app\build\intermediates\pre-dexed\debug\classes_8183007c9c6ecec5396f2ffc724732ac72aad8e8.jar" />
+    </item>
+
+</items>

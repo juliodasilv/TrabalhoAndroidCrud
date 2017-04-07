@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="runner-0.5">
+    <ANNOTATIONS>
+      <root url="jar://C:/opensource/Android_AVD/.android/build-cache/2b8a2d05cd7c4b2471bbf02ca509b46fc235f49c/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://C:/opensource/Android_AVD/.android/build-cache/2b8a2d05cd7c4b2471bbf02ca509b46fc235f49c/output/res" />
+      <root url="jar://C:/opensource/Android_AVD/.android/build-cache/2b8a2d05cd7c4b2471bbf02ca509b46fc235f49c/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/opensource/Android_SDK/sdk/extras/android/m2repository/com/android/support/test/runner/0.5/runner-0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
